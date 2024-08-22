@@ -5,7 +5,7 @@
         "alloraHomeDir": "",
         "gas": "1000000",
         "gasAdjustment": 1.0,
-        "nodeRpc": "https://sentries-rpc.testnet-1.testnet.allora.network/",
+        "nodeRpc": "https://allora-testnet-1-rpc.testnet.nodium.xyz/",
         "maxRetries": 1,
         "delay": 1,
         "submitTx": false
